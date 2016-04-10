@@ -1,6 +1,6 @@
 {
   "name": "rotate-vector-about-axis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper module that allows you to rotate a vector about an arbitrary axis.",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,5 @@
     "gl-vec3",
     "vec3"
   ],
-
   "homepage": "https://github.com/Erkaman/rotate-vector-about-axi"
 }
