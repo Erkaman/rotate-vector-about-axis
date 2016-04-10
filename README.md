@@ -1,4 +1,4 @@
-# gl-clear
+# rotate-vector-about-axis
 
 A helper module that allows you to rotate a `gl-vec3` about an
 arbitrary axis(and not only the x-, y- and z-axes).
