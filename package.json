@@ -1,0 +1,36 @@
+{
+  "name": "rotate-vector-about-axis",
+  "version": "1.0.0",
+  "description": "A helper module that allows you to rotate a vector about an arbitrary axis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Eric Arnebäck <arnebackeric@gmail.com> (https://github.com/Erkaman)",
+  "license": "MIT",
+  "devDependencies": {
+    "almost-equal": "^1.1.0",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "gl-quat": "^1.0.0",
+    "gl-vec3": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Erkaman/rotate-vector-about-axis.git"
+  },
+  "keywords": [
+    "stackgl",
+    "gl",
+    "webgl",
+    "vector",
+    "quat",
+    "rotation",
+    "axis",
+    "gl-vec3",
+    "vec3"
+  ],
+
+  "homepage": "https://github.com/Erkaman/rotate-vector-about-axi"
+}
